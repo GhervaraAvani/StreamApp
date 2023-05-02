@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GROUNDBREAKERS</string>
+    <!--empty state-->
+    <string name="empty_screen">Oops!! An unexpected error occurred</string>
+    <string name="please_retry">Please retry after sometime</string>
+    <string name="retry">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
